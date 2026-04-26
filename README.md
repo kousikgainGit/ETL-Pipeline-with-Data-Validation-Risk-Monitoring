@@ -4,7 +4,7 @@
 This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline with integrated data validation checks to ensure data quality and reliability for analytics.
 The pipeline processes raw transactional data, identifies inconsistencies, and generates a clean dataset along with risk indicators.
 
-## 🚀 Key Features
+##Key Features
 * Data Extraction from raw CSV dataset
 * Data Cleaning (handling missing values, duplicates)
 * Data Transformation (feature engineering, formatting)
