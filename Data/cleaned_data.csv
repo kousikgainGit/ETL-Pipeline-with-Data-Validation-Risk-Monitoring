@@ -1,0 +1,11 @@
+transaction_id,customer_id,transaction_date,product,quantity,price,payment_method,region,revenue,risk_flag
+1001,C001,01-01-2024,Laptop,1,75000,Credit Card,West,75000,High Value Transaction
+1002,C002,02-01-2024,Mobile,2,20000,UPI,East,40000,Normal
+1003,C003,03-01-2024,Tablet,1,15000,Debit Card,North,15000,Normal
+1004,C002,03-01-2024,Mobile,1,20000,UPI,East,20000,Normal
+1005,C004,04-01-2024,Laptop,1,20000,Credit Card,South,20000,Normal
+1006,C005,05-01-2024,Headphones,3,3000,Cash,West,9000,Normal
+1007,C006,06-01-2024,Mobile,1,20000,Unknown,North,20000,Missing Payment Method
+1008,C001,06-01-2024,Laptop,1,75000,Credit Card,West,75000,High Value Transaction
+1009,C007,07-01-2024,Tablet,2,15000,UPI,South,30000,Normal
+1010,C008,08-01-2024,Mobile,1,20000,Debit Card,East,20000,Normal

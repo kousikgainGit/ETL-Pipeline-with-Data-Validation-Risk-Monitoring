@@ -1,0 +1,11 @@
+transaction_id,customer_id,transaction_date,product,quantity,price,payment_method,region
+1001,C001,01-01-2024,Laptop,1,75000,Credit Card,West
+1002,C002,02-01-2024,Mobile,2,20000,UPI,East
+1003,C003,03-01-2024,Tablet,,15000,Debit Card,North
+1004,C002,03-01-2024,Mobile,1,20000,UPI,East
+1005,C004,04-01-2024,Laptop,1,,Credit Card,South
+1006,C005,05-01-2024,Headphones,3,3000,Cash,West
+1007,C006,06-01-2024,Mobile,1,20000,,North
+1008,C001,06-01-2024,Laptop,1,75000,Credit Card,West
+1009,C007,07-01-2024,Tablet,2,15000,UPI,South
+1010,C008,08-01-2024,Mobile,1,20000,Debit Card,East
